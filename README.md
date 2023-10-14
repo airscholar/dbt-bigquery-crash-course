@@ -1,7 +1,5 @@
 Welcome to your new dbt project!
 
-![DBT_and_BigQuery.png](assets%2FDBT_and_BigQuery.png)
-
 ### Using the starter project
 
 Try running the following commands:
